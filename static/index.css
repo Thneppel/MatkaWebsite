@@ -6,7 +6,6 @@ html, body {
     margin: 0;
     position: relative;
     font-family: "Montserrat";
-    background-color: black;
     color: white;
     --red: #AD0000;
     font-size: max(1rem, min(1vw, 2vh));
@@ -20,12 +19,22 @@ html, body {
     margin: auto;
 }
 
-img {
+svg {
+    scale: 2;
     position: absolute;
     top: 50%;
     left: 50%;
     translate: -50% -50%;
-    width: 12rem;
+}
+
+.circle {
+    scale: 5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    opacity: 75%;
+    filter: blur(20px);
 }
 
 .left {
