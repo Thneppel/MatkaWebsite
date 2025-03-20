@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="98"
+   height="160"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="logo_red.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.13125"
+     inkscape:cx="49.013398"
+     inkscape:cy="80"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     style="fill:#ad000f;fill-opacity:1"
+     id="g4">
+    <g
+       class="fills"
+       id="g1"
+       style="fill:#ad000f;fill-opacity:1">
+      <rect
+         rx="0"
+         ry="0"
+         x="31.418"
+         y="103.959"
+         width="7.36"
+         height="20.496"
+         class="cls-1"
+         id="rect1"
+         style="fill:#ad000f;fill-opacity:1" />
+    </g>
+    <g
+       class="fills"
+       id="g2"
+       style="fill:#ad000f;fill-opacity:1">
+      <rect
+         rx="0"
+         ry="0"
+         x="69.547"
+         y="62.483"
+         width="7.36"
+         height="61.972"
+         class="cls-1"
+         id="rect2"
+         style="fill:#ad000f;fill-opacity:1" />
+    </g>
+    <g
+       class="fills"
+       id="g3"
+       style="fill:#ad000f;fill-opacity:1">
+      <path
+         d="M51.531 144.386h-5.156v4.459h5.156l.098-.098v-4.281l-.098-.08Zm0 0h-5.156v4.459h5.156l.098-.098v-4.281l-.098-.08Zm0 0h-5.156v4.459h5.156l.098-.098v-4.281l-.098-.08Zm16.099 0v4.459h5.245v-4.459H67.63Zm0 0v4.459h5.245v-4.459H67.63Zm-16.099 0h-5.156v4.459h5.156l.098-.098v-4.281l-.098-.08ZM0 0v160h98V0H0Zm12.251 26.858h26.527V12.222h8.847v38.044h-8.847V35.639H12.251v-8.781Zm0 56.116H22.2l3.31-3.285v-17.21H12.247v-8.772h35.369v8.772H34.348v17.21l3.31 3.285h9.958v8.772H33.999L29.927 87.7l-4.05 4.046H12.242l.009-8.772Zm0 41.476h10.321v-20.491H12.251v-8.781H47.62v38.044H12.251v-8.772Zm9.747 19.936H14.5v1.116h7.498v5.575h-9.747v-2.232h7.499v-1.116h-7.499v-5.575h9.747v2.232Zm10.625 0h-3.749v6.691h-2.249v-6.691h-3.744v-2.232h9.742v2.232Zm10.625 6.691h-9.742v-8.923h2.248v6.691H41v-6.691h2.248v8.923Zm10.63-1.396-1.411 1.396h-8.336v-8.923h8.336l1.411 1.396v6.131Zm10.625-5.3h-3.749v4.46h3.749v2.232h-9.747v-2.232h3.749v-4.46h-3.749v-2.231h9.747v2.231Zm10.625 6.692h-9.747v-8.923h9.747v8.923Zm10.625-6.692h-7.494v1.116h7.494v5.576h-9.742v-2.232h7.494v-1.116h-7.494v-5.575h9.742v2.231Zm0-11.159H50.389v-8.772h10.325V62.479H50.389v-8.772h35.364v79.515Zm0-82.952H50.389v-8.781h26.527v-5.855H50.389v-8.781h26.527v-5.855H50.389v-8.781h35.364V50.27Zm-12.869 94.111h-5.245v4.46h5.245v-4.46Zm-26.5 0v4.46h5.156l.098-.098v-4.282l-.098-.084-5.156.004Zm5.156 0h-5.156v4.46h5.156l.098-.098v-4.282l-.098-.08Zm0 0h-5.156v4.46h5.156l.098-.098v-4.282l-.098-.08Z"
+         class="cls-1"
+         id="path2"
+         style="fill:#ad000f;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
