@@ -7,7 +7,7 @@ html, body {
     position: relative;
     font-family: "Montserrat";
     color: white;
-    --red: #AD0000;
+    --red: #b40000;
     font-size: max(1rem, min(1vw, 2vh));
 }
 
@@ -19,20 +19,24 @@ html, body {
     margin: auto;
 }
 
-svg {
-    scale: 2;
+.logo {
     position: absolute;
+    scale: 2;
     top: 50%;
     left: 50%;
     translate: -50% -50%;
 }
 
 .circle {
-    scale: 5;
     position: absolute;
     top: 50%;
     left: 50%;
     translate: -50% -50%;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    scale: 5;
     opacity: 75%;
     filter: blur(20px);
 }
@@ -60,11 +64,4 @@ a {
 
 a:hover {
     color: var(--red);
-}
-
-.right {
-    position: absolute;
-    text-align: right;
-    bottom: 5%;
-    right: 5%;
 }

@@ -6,16 +6,15 @@ html, body {
     margin: 0;
     position: relative;
     font-family: "Montserrat";
-    --red: #AD0000;
+    --red: #b40000;
     background-color: var(--red);
     color: white;
     font-size: max(1rem, min(1vw, 2vh));
     text-align: center;
 }
 
-img {
-    margin-top: 30vh;
-    width: 7rem;
+.logo {
+    margin-top: 33vh;
 }
 
 p {
