@@ -45,9 +45,11 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 50%;
     height: 7rem;
     gap: 5rem;
-    top: 45%;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
 }
 
