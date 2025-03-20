@@ -65,3 +65,12 @@ a {
 a:hover {
     color: var(--red);
 }
+
+.right {
+    position: absolute;
+    display: flex;
+    align-items:center;
+    right: 3%;
+    bottom: 5%;
+    text-align: right;
+}
